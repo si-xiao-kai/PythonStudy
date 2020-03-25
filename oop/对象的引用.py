@@ -1,7 +1,7 @@
 class Cat:
-    def eat():
+    def eat(self):
         print("小猫吃鱼")
-    def drink():
+    def drink(self):
         print("小猫喝水")
 def main():
     tom=Cat()
